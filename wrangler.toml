@@ -1,0 +1,6 @@
+name = "mada-ai"
+compatibility_date = "2026-01-01"
+pages_build_output_dir = "dist"
+
+[vars]
+DEFAULT_MODEL = "gemini-3.8-flash"
